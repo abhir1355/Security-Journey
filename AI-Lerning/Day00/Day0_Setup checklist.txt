@@ -1,0 +1,21 @@
+# Day 00 Setup Checklist
+
+- [ ] Windows Updated
+- [ ] VS Code
+- [ ] Python 3.12 (with PATH)
+- [ ] Git
+- [ ] GitHub Desktop
+- [ ] Docker Desktop
+- [ ] WSL2 Ubuntu
+- [ ] Postman
+- [ ] Ollama
+
+## VS Code Extensions
+- [ ] Python
+- [ ] Pylance
+- [ ] Black Formatter
+- [ ] Docker
+
+## Verify
+python --version  # 3.14.6
+git --version     # 2.55.0
